@@ -11,3 +11,17 @@ h1 {
 .album {
   text-transform: uppercase;
 }
+
+ul {
+  font-size: 25px;
+  background-color: yellow;
+  float: right;
+  padding-top: 25px;
+  padding-bottom: 20px;
+}
+
+li {
+  list-style: none;
+  text-align: center;
+  line-height: 50px;
+}
