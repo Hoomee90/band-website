@@ -8,25 +8,36 @@ h1 {
   vertical-align: super;
 }
 
-.album {
+h2 {
+  text-align: center;
+}
+
+.new-album {
+  text-align: right;
+  padding-right: 70px;
+}
+
+.album-name {
+  color: #678900;
   text-transform: uppercase;
   font-weight: bolder;
+  text-shadow: 2px 3px 2px black;
+
+  border: 5px ridge black;
 }
 
 ul {
   font-size: 20px;
-  color: white;
+  color: #f7e3e3;
   font-family: 'Lucida Sans Regular', Verdana, sans-serif;
   background-color:#990000;
   float: right;
 
-  border: 12px black;
-  border-style: outset;
+  border: 12px outset black;
   border-radius: 20px;
 
   padding: 15px 5px 7px 7px;
   margin-right: 13px;
-
 }
 
 li {
