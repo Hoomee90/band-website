@@ -7,3 +7,7 @@ h1 {
   font-size: 30px;
   vertical-align: super;
 }
+
+.album {
+  text-transform: uppercase;
+}
