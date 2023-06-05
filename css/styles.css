@@ -1,3 +1,9 @@
-.title {
-    float: left;
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+.superscript {
+  font-size: 30px;
+  vertical-align: super;
 }
