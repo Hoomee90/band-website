@@ -35,9 +35,9 @@ h2 {
 
 ul {
   font-size: 20px;
-  color: #01b1b1;
+  color: #01b377;
   text-shadow: 2px 2px 1px #55002b;
-  font-family: 'Lucida Sans Regular', Verdana, sans-serif;
+  font-family: 'Lucida Sans Regular', Verdana;
   background-color:#990000;
   float: right;
 
@@ -49,15 +49,15 @@ ul {
 }
 
 li {
-  padding-top: 2px;
-
   list-style: none;
   text-align: center;
   line-height: 50px;
   rotate: 3deg;
 
-  border-bottom: 3px dashed #078446;
-  border-right: 3px dashed #078446;
+  padding-top: 3px;
+
+  border-bottom: 4px ridge #078446;
+  border-radius: 5%;
 }
 
 .lower {
