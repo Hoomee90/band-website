@@ -3,6 +3,13 @@
   src: url(fonts/EvilEmpire.ttf);
 }
 
+body {
+  background-color: #777777;
+  color: #420455;
+  text-shadow: 1px 1px 1px #7d2597;
+  font-family:'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
 h1 {
   text-align: center;
   font-size: 50px;
@@ -26,7 +33,7 @@ h2 {
   color: #2ed73a;
   text-transform: uppercase;
   font-weight: bolder;
-  text-shadow: 1px 1px 2px rgb(83, 121, 86);
+  text-shadow: 1px 2px 1px rgb(83, 121, 86);
 
   border: 5px #4ac925;
   border-left: 5px #1F9400;
