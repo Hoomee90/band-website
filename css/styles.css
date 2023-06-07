@@ -49,8 +49,22 @@ ul {
 }
 
 li {
-  text-decoration: wavy;
+  padding-top: 2px;
+
   list-style: none;
   text-align: center;
   line-height: 50px;
+  rotate: 3deg;
+
+  border-bottom: 3px dashed #078446;
+  border-right: 3px dashed #078446;
 }
+
+.lower {
+  rotate: -3deg;
+}
+
+.list-bottom {
+  border-bottom: none;
+}
+
