@@ -35,7 +35,7 @@ h2 {
 
 ul {
   font-size: 20px;
-  color: #01b377;
+  color: #f8aeae;
   text-shadow: 2px 2px 1px #55002b;
   font-family: 'Lucida Sans Regular', Verdana;
   background-color:#990000;
@@ -62,6 +62,7 @@ li {
 
 .lower {
   rotate: -3deg;
+  color: #AEF8F8;
 }
 
 .list-bottom {
