@@ -22,7 +22,6 @@ body {
   background-color: #777777;
   color: #420455;
   text-shadow: 1px 1px 1px #7d2597;
-  /* font-family: ; */
 }
 
 h1 {
@@ -33,6 +32,12 @@ h1 {
   margin-top: 15px;
 }
 
+
+.small-superscript {
+  vertical-align: super;
+  margin-top: 0px;
+}
+
 .superscript {
   font-size: 60px;
   vertical-align: super;
@@ -40,6 +45,7 @@ h1 {
   margin-top: 0px;
   text-shadow: 2px 2px 3px #6a006a;
 }
+
 
 h2 {
   font-family: billyHatter;
@@ -51,9 +57,8 @@ h2 {
 }
 
 img {
-  margin-top: 20px;
+  margin: 20px 20px 0px 5px;
   float: left;
-  padding-right: 5px;
   width: 1000px;
   height: auto;
 }
@@ -70,9 +75,8 @@ p {
 
 .info {
   margin-bottom: 0px;
-  padding-left: 20px;
   margin-left: initial;
-  text-align: center;
+  text-align: left;
   clear: none;
   
   font-weight: normal;
@@ -118,6 +122,7 @@ ul {
 
   padding: 15px 15px 7px 15px;
   margin-right: 13px;
+  margin-left: 20px;
 }
 
 li {
