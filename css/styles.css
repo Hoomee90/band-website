@@ -8,43 +8,69 @@
   src: url(fonts/SpookyHollow-z84pX.ttf);
 }
 
+@font-face {
+  font-family: raillyRegular;
+  src: url(fonts/RaillyRegular-axXra.otf);
+}
+
+@font-face {
+  font-family: billyHatter;
+  src: url(fonts/BillyHatterPesonalUseOnly-9Ydyy.otf);
+}
 
 body {
   background-color: #777777;
   color: #420455;
   text-shadow: 1px 1px 1px #7d2597;
-  font-family: ;
+  /* font-family: ; */
 }
 
 h1 {
+  font-family: spookyHallow;
   text-align: center;
-  font-size: 50px;
+  font-size: 155px;
+  margin-bottom: 0px;
+  margin-top: 15px;
 }
 
 .superscript {
-  font-size: 30px;
+  font-size: 60px;
   vertical-align: super;
+  color: #99004d;
+  margin-top: 0px;
+  text-shadow: 2px 2px 3px #6a006a;
 }
 
 h2 {
+  font-family: billyHatter;
   text-align: center;
+  font-size: 45px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 5px;
 }
 
 img {
+  margin-top: 20px;
   float: left;
   padding-right: 5px;
+  width: 1000px;
+  height: auto;
 }
 
 p {
-  clear: left;
-  font-size: 25px;
+  font-size: 23px;
   font-weight: bold;
   color:#99004d;
+  font-family: 'Courier New', Courier, monospace;
+
+  clear: left;
+  margin-left: 15px;
 }
 
 .info {
   margin-bottom: 0px;
-
+  margin-left: initial;
   text-align: center;
   clear: none;
   
@@ -53,8 +79,11 @@ p {
 }
 
 .new-album {
+  font-family: raillyRegular;
+
   text-align: right;
   padding-right: 70px;
+  font-size: 35px;
 }
 
 .album-name {
