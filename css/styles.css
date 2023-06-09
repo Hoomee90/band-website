@@ -24,8 +24,12 @@ body {
   text-shadow: 1px 1px 1px #7d2597;
 }
 
-h1 {
+.band-name {
   font-family: spookyHallow;
+}
+
+h1 {
+  font-family: billyHatter;
   text-align: center;
   font-size: 155px;
   margin-bottom: 0px;
@@ -34,18 +38,22 @@ h1 {
 
 
 .small-superscript {
+  font-family: billyHatter;
+  color: #99004d;
+  text-shadow: 2px 2px 3px #6a006a;
+
+  letter-spacing: 1px;
   vertical-align: super;
   margin-top: 0px;
 }
 
 .superscript {
-  font-size: 60px;
+  font-size: 72px;
   vertical-align: super;
   color: #99004d;
   margin-top: 0px;
   text-shadow: 2px 2px 3px #6a006a;
 }
-
 
 h2 {
   font-family: billyHatter;
@@ -57,7 +65,7 @@ h2 {
 }
 
 img {
-  margin: 20px 20px 0px 5px;
+  margin: 20px 30px 0px 5px;
   float: left;
   width: 1000px;
   height: auto;
@@ -66,7 +74,6 @@ img {
 p {
   font-size: 23px;
   font-weight: bold;
-  color:#99004d;
   font-family: 'Courier New', Courier, monospace;
 
   clear: left;
@@ -76,7 +83,7 @@ p {
 .info {
   margin-bottom: 0px;
   margin-left: initial;
-  text-align: left;
+  text-align: justify;
   clear: none;
   
   font-weight: normal;
@@ -85,10 +92,14 @@ p {
 
 .new-album {
   font-family: raillyRegular;
-
-  text-align: right;
-  padding-right: 70px;
   font-size: 35px;
+  text-align: right;
+
+  color: #99004d;
+  text-shadow: 2px 2px 3px #6a006a;
+
+  margin-bottom: 0px;
+  margin-right: 45px;
 }
 
 .album-name {
@@ -123,6 +134,7 @@ ul {
   padding: 15px 15px 7px 15px;
   margin-right: 13px;
   margin-left: 20px;
+  margin-top: 0px;
 }
 
 li {
