@@ -24,6 +24,19 @@ h2 {
   text-align: center;
 }
 
+img {
+  float: left;
+  padding-right: 5px;
+}
+
+p {
+  float: left;
+}
+
+.info {
+  margin-bottom: 0px;
+}
+
 .new-album {
   text-align: right;
   padding-right: 70px;
