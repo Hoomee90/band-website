@@ -11,9 +11,7 @@
 
 ## Description
 
-This browser page is a basic mockup of an decently surreal band website. Users can navigate between the main page and further pages such as accommodations and contact information. 
-
-They can also be slightly perturbed by my *interesting* sense of humor.
+This browser page is a basic mockup of an decently surreal band website. Users can look at all the hard work I put into that sidebar. They can also try to guess what the names are a reference to.
 
 ## Setup/Installation Requirements
 
