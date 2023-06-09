@@ -3,11 +3,17 @@
   src: url(fonts/EvilEmpire.ttf);
 }
 
+@font-face {
+  font-family: spookyHallow;
+  src: url(fonts/SpookyHollow-z84pX.ttf);
+}
+
+
 body {
   background-color: #777777;
   color: #420455;
   text-shadow: 1px 1px 1px #7d2597;
-  font-family:'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: ;
 }
 
 h1 {
@@ -31,13 +37,19 @@ img {
 
 p {
   clear: left;
+  font-size: 25px;
+  font-weight: bold;
+  color:#99004d;
 }
 
 .info {
   margin-bottom: 0px;
-  padding: 5px 8px 5px 8px;
+
   text-align: center;
-  clear: none;  
+  clear: none;
+  
+  font-weight: normal;
+  color: currentColor;
 }
 
 .new-album {
