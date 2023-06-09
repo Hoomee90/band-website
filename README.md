@@ -1,8 +1,8 @@
-# Callie Resort Page
+# Samantha to the Callie site
 
 #### By **Samantha Callie**
 
-#### A simple mockup of a resort website
+#### A simple mockup of a band's website
 
 ## Technologies Used
 
@@ -11,7 +11,7 @@
 
 ## Description
 
-This browser page is a basic mockup of an exceptionally surreal resort's website. Users can navigate between the main page and further pages such as accommodations and contact information. 
+This browser page is a basic mockup of an decently surreal band website. Users can navigate between the main page and further pages such as accommodations and contact information. 
 
 They can also be slightly perturbed by my *interesting* sense of humor.
 
@@ -23,10 +23,12 @@ They can also be slightly perturbed by my *interesting* sense of humor.
 
 ## Known Bugs
 
-* There are no known bugs on the site, only tardigrades
+* There are no known bugs on the site
+
+### Credit to [Forberas](https://www.fontspace.com/spooky-hollow-font-f84212), [zeenesia studio](https://www.fontspace.com/billy-hatter-font-f78442), [craftsupplyco](https://www.fontspace.com/railly-font-f96088), and [Letterhend Studio](https://www.fontspace.com/black-north-font-f87052) for the fonts
 
 ## License
 
-GNU GPLv3
+[GNU GPLv3](https://choosealicense.com/licenses/agpl-3.0/)
 
 Copyright (c) 2023 Samatha Callie
