@@ -30,11 +30,14 @@ img {
 }
 
 p {
-  float: left;
+  clear: left;
 }
 
 .info {
   margin-bottom: 0px;
+  padding: 5px 8px 5px 8px;
+  text-align: center;
+  clear: none;  
 }
 
 .new-album {
